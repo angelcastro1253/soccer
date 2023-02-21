@@ -1,0 +1,27 @@
+body {
+  background-color: darkgrey;
+}
+
+h1 {
+  background-color: rgb(255, 193, 113);
+  color: white;
+  border: solid rgb(255, 145, 0);
+  border-radius: 10px;
+  padding: 4px;
+}
+
+img {
+  display: block;
+  padding: 10px;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 30px;
+}
+
+p {
+  background-color: lightgrey;
+  padding: 10px;
+  border-radius: 10px;
+  border: solid black
+}
